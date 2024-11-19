@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../htmlStudio"
+		},
+		{
+			"path": "../cssStudio"
+		},
+		{
+			"path": "../javaScript"
+		}
+	],
+	"settings": {}
+}
